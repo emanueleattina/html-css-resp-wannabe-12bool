@@ -27,6 +27,12 @@
   float: left;
 }
 
+[class*="offset"]
+{
+  float: left;
+  height: 100px;
+}
+
 /* media query per mobile */
 
 @media all and (max-width: 767px)
@@ -233,7 +239,6 @@
   .col-offset-md-3
   {
     margin-left: calc(100% / 12 * 3);
-    height: 100px;
   }
 
   .col-offset-md-4
