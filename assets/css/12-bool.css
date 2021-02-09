@@ -233,6 +233,7 @@
   .col-offset-md-3
   {
     margin-left: calc(100% / 12 * 3);
+    height: 100px;
   }
 
   .col-offset-md-4
