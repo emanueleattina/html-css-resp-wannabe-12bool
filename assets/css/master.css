@@ -1,17 +1,154 @@
-.bg-yellow
-{
-  background: #0f0;
-}
-
-.bg-yellow h1
-{
-  text-align: center;
-}
-
 @media all and (max-width: 767px)
 {
-  .bg-yellow
+  #lezioni
   {
-    background: purple;
+    background: #fffdd7;
+    font-size: 2em;
+    padding: 30px 30px;
+  }
+
+  #steps
+  {
+    background: #fff;
+    font-size: 2em;
+    padding: 30px 30px;
+  }
+
+  #why
+  {
+    background: #fffdd7;
+    font-size: 2em;
+    padding: 30px 30px;
+  }
+
+  .title h1
+  {
+    text-align: center;
+  }
+
+  .contenuto
+  {
+    text-align: center;
+  }
+
+  .contenuto img
+  {
+   height: 300px;
+  }
+
+  #why img
+  {
+    background: #428bca;
+    border-radius: 50%;
+    padding: 30px;
+  }
+
+  #why .contenuto
+  {
+    border-bottom: 1px solid #000;
+  }
+}
+
+@media all and (min-width: 768px) and (max-width: 991px)
+{
+  #lezioni
+  {
+    background: #fffdd7;
+    font-size: 1.5em;
+    padding: 30px 30px;
+  }
+
+  #steps
+  {
+    background: #fff;
+    font-size: 1.5em;
+    padding: 30px 30px;
+  }
+
+  #why
+  {
+    background: #fffdd7;
+    font-size: 1.5em;
+    padding: 30px 30px;
+  }
+
+  .title h1
+  {
+    text-align: center;
+  }
+
+  .contenuto
+  {
+    text-align: center;
+    padding: 30px 30px;
+  }
+
+  .contenuto img
+  {
+   height: 300px;
+  }
+
+  #why img
+  {
+    background: #428bca;
+    border-radius: 50%;
+    padding: 30px;
+  }
+
+  #why .contenuto
+  {
+    border-bottom: 1px solid #000;
+  }
+}
+
+@media all and (min-width: 992px)
+{
+  #lezioni
+  {
+    background: #fffdd7;
+    font-size: 1.3em;
+    padding: 30px 30px;
+  }
+
+  #steps
+  {
+    background: #fff;
+    font-size: 1.3em;
+    padding: 30px 30px;
+  }
+
+  #why
+  {
+    background: #fffdd7;
+    font-size: 1.3em;
+    padding: 30px 30px;
+  }
+
+  .title h1
+  {
+    text-align: center;
+  }
+
+  .contenuto
+  {
+    text-align: center;
+    padding: 30px 30px;
+  }
+
+  .contenuto img
+  {
+   height: 200px;
+  }
+
+  #why img
+  {
+    background: #428bca;
+    border-radius: 50%;
+    padding: 30px;
+  }
+
+  #why .contenuto
+  {
+    border-bottom: 1px solid #000;
   }
 }
