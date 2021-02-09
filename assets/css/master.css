@@ -36,6 +36,11 @@
    height: 300px;
   }
 
+  img
+  {
+    margin-top: 40px;
+  }
+
   #why img
   {
     background: #428bca;
