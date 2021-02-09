@@ -93,6 +93,11 @@
    height: 300px;
   }
 
+  #steps .contenuto
+  {
+    height: 485px;
+  }
+
   #why img
   {
     background: #428bca;
@@ -103,6 +108,7 @@
   #why .contenuto
   {
     border-bottom: 1px solid #000;
+    height: 540px;
   }
 }
 
@@ -155,5 +161,6 @@
   #why .contenuto
   {
     border-bottom: 1px solid #000;
+    height: 470px;
   }
 }
