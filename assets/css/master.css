@@ -1,0 +1,17 @@
+.bg-yellow
+{
+  background: #0f0;
+}
+
+.bg-yellow h1
+{
+  text-align: center;
+}
+
+@media all and (max-width: 767px)
+{
+  .bg-yellow
+  {
+    background: purple;
+  }
+}
